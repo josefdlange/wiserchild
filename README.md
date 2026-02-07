@@ -1,0 +1,2 @@
+# wiserchild
+SmarterChild, but LLMs
